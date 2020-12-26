@@ -1,5 +1,6 @@
 # Notion
 USER-AGENT,Notion*
+PROCESS-NAME,Notion
 DOMAIN,loggly.com
 DOMAIN,segment.com
 DOMAIN,intercom.io
