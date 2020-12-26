@@ -1,20 +1,20 @@
 # Emby-Public
 # Hongkong-AGA/Japan-AGA/Japan-NTT/Singapore/CF
 # Line-1
-DOMAIN-SUFFIX,http://pub1.emby.wtf
-DOMAIN-SUFFIX,http://pub1jp.emby.wtf
-DOMAIN-SUFFIX,http://pub1ntt.emby.wtf
-DOMAIN-SUFFIX,http://pub1sgp.emby.wtf
-DOMAIN-SUFFIX,http://pub1cf.emby.wtf
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub1jp.emby.wtf
+DOMAIN,pub1ntt.emby.wtf
+DOMAIN,pub1sgp.emby.wtf
+DOMAIN,pub1cf.emby.wtf
 # Line-2
-DOMAIN-SUFFIX,http://pub2.emby.wtf
-DOMAIN-SUFFIX,http://pub2jp.emby.wtf
-DOMAIN-SUFFIX,http://pub2ntt.emby.wtf
-DOMAIN-SUFFIX,http://pub2sgp.emby.wtf
-DOMAIN-SUFFIX,http://pub2cf.emby.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub2jp.emby.wtf
+DOMAIN,pub2ntt.emby.wtf
+DOMAIN,pub2sgp.emby.wtf
+DOMAIN,pub2cf.emby.wtf
 # Line-3
-DOMAIN-SUFFIX,http://pub3.emby.wtf
-DOMAIN-SUFFIX,http://pub3jp.emby.wtf
-DOMAIN-SUFFIX,http://pub3ntt.emby.wtf
-DOMAIN-SUFFIX,http://pub3sgp.emby.wtf
-DOMAIN-SUFFIX,http://pub3cf.emby.wtf
+DOMAIN,pub3.emby.wtf
+DOMAIN,pub3jp.emby.wtf
+DOMAIN,pub3ntt.emby.wtf
+DOMAIN,pub3sgp.emby.wtf
+DOMAIN,pub3cf.emby.wtf
