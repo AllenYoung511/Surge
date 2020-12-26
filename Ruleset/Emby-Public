@@ -1,0 +1,20 @@
+# Emby-Public
+# Hongkong-AGA/Japan-AGA/Japan-NTT/Singapore/CF
+# Line-1
+DOMAIN,http://pub1.emby.wtf
+DOMAIN,http://pub1jp.emby.wtf
+DOMAIN,http://pub1ntt.emby.wtf
+DOMAIN,http://pub1sgp.emby.wtf
+DOMAIN,http://pub1cf.emby.wtf
+# Line-2
+DOMAIN,http://pub2.emby.wtf
+DOMAIN,http://pub2jp.emby.wtf
+DOMAIN,http://pub2ntt.emby.wtf
+DOMAIN,http://pub2sgp.emby.wtf
+DOMAIN,http://pub2cf.emby.wtf
+# Line-3
+DOMAIN,http://pub3.emby.wtf
+DOMAIN,http://pub3jp.emby.wtf
+DOMAIN,http://pub3ntt.emby.wtf
+DOMAIN,http://pub3sgp.emby.wtf
+DOMAIN,http://pub3cf.emby.wtf
