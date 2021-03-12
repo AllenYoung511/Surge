@@ -1,7 +1,7 @@
 # > Google time
 DOMAIN,time.android.com
 # > Google Search
-DOMAIN-KEYWORD,www.google.
+DOMAIN-KEYWORD,google
 # > YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
