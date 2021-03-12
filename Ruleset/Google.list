@@ -1,4 +1,5 @@
-# > Google time
+# > Google check
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN,time.android.com
 # > Google Search
 DOMAIN-KEYWORD,google
