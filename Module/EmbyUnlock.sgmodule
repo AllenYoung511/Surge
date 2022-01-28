@@ -6,3 +6,4 @@ EmbyPremiere.js = type=http-response,pattern=^https?:\/\/mb3admin.com\/admin\/se
 
 [MITM]
 hostname = %APPEND% mb3admin.com
+
