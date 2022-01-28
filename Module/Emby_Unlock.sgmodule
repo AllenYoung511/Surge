@@ -1,8 +1,8 @@
 #!name=Emby_Unlock
-#!desc=EmbyPremiere
+#!desc=Emby_Premiere
 
 [Script]
-EmbyPremiere.js = type=http-response,pattern=^https?:\/\/mb3admin.com\/admin\/service\/registration\/validateDevice,requires-body=1,max-size=0,script-path=https://github.com/AllenYoung511/Surge/raw/main/Script/EmbyPremiere.js
+EmbyPremiere.js = type=http-response,pattern=^https?:\/\/mb3admin.com\/admin\/service\/registration\/validateDevice,requires-body=1,max-size=0,script-path=https://github.com/AllenYoung511/Surge/raw/main/Script/Emby_Premiere.js
 
 [MITM]
 hostname = %APPEND% mb3admin.com
