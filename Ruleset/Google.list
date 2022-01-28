@@ -23,3 +23,28 @@ DOMAIN-SUFFIX,docs.google.com
 DOMAIN-SUFFIX,drive.google.com
 DOMAIN-SUFFIX,googledrive.com
 DOMAIN-SUFFIX,googleusercontent.com
+# > Goolgle time
+DOMAIN,time.android.com
+# > Google check
+DOMAIN-SUFFIX,gstatic.com
+# > Google Search
+DOMAIN-KEYWORD,google
+# > YouTube
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,YouTube*
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
+# > YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+# > Google Drive
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
+USER-AGENT,Google.Drive*
+USER-AGENT,*com.google.Drive*
+DOMAIN-SUFFIX,docs.google.com
+DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,googledrive.com
+DOMAIN-SUFFIX,googleusercontent.com
