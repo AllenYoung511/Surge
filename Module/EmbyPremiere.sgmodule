@@ -1,7 +1,7 @@
 #!name=EmbyPremiere
 #!desc=EmbyPremiere
 
-[SCRIPT]
+[Script]
 EmbyPremiere.js = type=http-response,pattern=^https?:\/\/mb3admin.com\/admin\/service\/registration\/validateDevice,requires-body=1,max-size=0,script-path=https://github.com/AllenYoung511/Surge/raw/main/Script/EmbyPremiere.js
 
 [MITM]
