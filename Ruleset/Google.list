@@ -4,6 +4,10 @@ DOMAIN,time.android.com
 DOMAIN-SUFFIX,gstatic.com
 # > Google Search
 DOMAIN-KEYWORD,google
+# > YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+DOMAIN,music.youtube.com
 # > YouTube
 UUSER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
@@ -19,9 +23,6 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
-# > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*
-USER-AGENT,YouTubeMusic*
 # > Google Drive
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
 USER-AGENT,Google.Drive*
