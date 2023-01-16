@@ -3,7 +3,7 @@ DOMAIN,time.android.com
 # > Google check
 DOMAIN-SUFFIX,gstatic.com
 # > Google Search
-DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,www.google
 # > YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
