@@ -4,6 +4,7 @@ DOMAIN,time.android.com
 DOMAIN-SUFFIX,gstatic.com
 # > Google Search
 DOMAIN-KEYWORD,www.google
+DOMAIN-SUFFIX,google.com
 # > YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
