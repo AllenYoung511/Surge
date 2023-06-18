@@ -1,16 +1,20 @@
-# > Goolgle time
+# Google time
 DOMAIN,time.android.com
-# > Google check
+
+# Google check
 DOMAIN-SUFFIX,gstatic.com
-# > Google Search
+
+# Google Search
 #DOMAIN-KEYWORD,www.google
 DOMAIN-SUFFIX,google.com
 DOMAIN-KEYWORD,google
-# > YouTubeMusic
+
+# YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 DOMAIN,music.youtube.com
-# > YouTube
+
+# YouTube
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
 DOMAIN-SUFFIX,googlevideo.com
@@ -25,7 +29,9 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
-# > Google Drive
+DOMAIN-KEYWORD,youtube
+
+# Google Drive
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
 USER-AGENT,Google.Drive*
 USER-AGENT,*com.google.Drive*
