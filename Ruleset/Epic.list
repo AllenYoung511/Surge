@@ -1,5 +1,6 @@
 # Epic
 DOMAIN-KEYWORD,epic
+AND,(DOMAIN-SUFFIX,azureedge.net),(DOMAIN-KEYWORD,appcenter-filemanagement)
 DOMAIN,account-public-service-prod03.ol.epicgames.com
 DOMAIN,launcherwaitingroom-public-service-prod06.ol.epicgames.com
 DOMAIN,launcher-public-service-prod06.ol.epicgames.com
